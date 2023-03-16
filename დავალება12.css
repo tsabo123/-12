@@ -74,6 +74,7 @@ hr{
 
 svg {
     padding-left: 20px;
+    padding-top: 2px;
 
 }
 .share {
@@ -93,6 +94,7 @@ section {
     letter-spacing: 2px;
     color: #FFFFFF;
 }
-.middle {
-margin: -15px;
+.icons {
+    display: flex;
+    justify-content: baseline;
 }
